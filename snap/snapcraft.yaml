@@ -1,7 +1,7 @@
 name: gradle
 adopt-info: gradle
 
-base: core20
+base: core22
 grade: stable
 #confinement: classic
 confinement: devmode
